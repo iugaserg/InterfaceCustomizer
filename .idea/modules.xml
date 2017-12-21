@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InterfaceCustomizer.iml" filepath="$PROJECT_DIR$/InterfaceCustomizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/InterfaceCustomizer.iml" filepath="$PROJECT_DIR$/.idea/InterfaceCustomizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

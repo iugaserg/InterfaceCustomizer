@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "96616255888",
+    "firebase_url": "https://interface-customizer.firebaseio.com",
+    "project_id": "interface-customizer",
+    "storage_bucket": "interface-customizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96616255888:android:7f3f08b9518ae661",
+        "android_client_info": {
+          "package_name": "com.example.iugasergiu.interfacecustomizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96616255888-tp14lk7qm6cm0eaq7q7k6ofo2uhcl2s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTNmJPJOphexcwO7v_4HD9_yBa_lLGXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
