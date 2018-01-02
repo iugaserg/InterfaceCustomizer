@@ -76,7 +76,7 @@
         <Button
             android:id="@+id/changeEmail"
             style="?android:textAppearanceSmall"
-            android:layout_width="wrap_content"
+            android:layout_width="354dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@color/colorPrimaryDark"
@@ -87,7 +87,7 @@
         <Button
             android:id="@+id/changePass"
             style="?android:textAppearanceSmall"
-            android:layout_width="wrap_content"
+            android:layout_width="355dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@color/colorPrimaryDark"
@@ -98,7 +98,7 @@
         <Button
             android:id="@+id/send"
             style="?android:textAppearanceSmall"
-            android:layout_width="wrap_content"
+            android:layout_width="351dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@color/colorPrimaryDark"
@@ -115,7 +115,7 @@
         <Button
             android:id="@+id/remove"
             style="?android:textAppearanceSmall"
-            android:layout_width="wrap_content"
+            android:layout_width="351dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@color/colorPrimaryDark"
